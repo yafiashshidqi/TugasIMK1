@@ -1,0 +1,31 @@
+/* SELECTION */
+body {
+    background-color: #a8e6cf;
+    color: black;
+    font-family: 'Open Sans';
+}
+
+img {
+    border-radius: 50%;
+}
+
+/* CLASS SELECTION */
+.tema1 {
+    border-top: 2px solid black;
+    background-color: #eaeaea;
+    color: #364f6b;
+    font-family: 'Century Gothic';
+}
+
+.tema2 {
+    border-top: 2px solid black;
+    background-color: #fce38a;
+    color: #ff2e63;
+    font-family: cursive;
+}
+
+/* ID SELECTION */
+
+#khusus {
+    background-color: #f9ed69;
+}
